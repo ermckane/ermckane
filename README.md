@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://emrymckanejourneytotheweb.wordpress.com/](https://emrymckanejourneytotheweb.wordpress.com/)
 
-- 💬 Ask me about **Plants and fantasy books**
+- 💬 Ask me about **plants and fantasy books**
 
 - ⚡ Fun fact **I buy more books than I read. Its a problem**
 
