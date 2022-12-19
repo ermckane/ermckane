@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emry McKane</h1>
 <h3 align="center">A passionate frontend developer from Virginia, US</h3>
 
-- 🔭 I’m currently working on **OdinProject and Python**
+- 🔭 I’m currently working on **OdinProject and freeCodeCamp**
 
-- 🌱 I’m currently learning **HTML,CSS,JS,Python**
+- 🌱 I’m currently learning **HTML,CSS,JS,SQL**
 
 - 📝 I regularly write articles on [https://emrymckanejourneytotheweb.wordpress.com/](https://emrymckanejourneytotheweb.wordpress.com/)
 
